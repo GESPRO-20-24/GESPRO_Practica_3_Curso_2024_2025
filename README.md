@@ -64,3 +64,41 @@ Guía de cómo se realiza toda la secuencia de acciones desde que nos posicionam
 
 
 El siguiente paso consiste en posicionarnos en el siguiente commit, y realizar de nuevo todos los pasos, pues debemos hacer esto con cada commit.
+
+
+-GITKRAKEN:
+
+1-Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio (25%)
+
+![image](https://github.com/user-attachments/assets/d3135091-9d73-427d-bb6a-c7329c66efd9)
+
+![image](https://github.com/user-attachments/assets/8d6d73c2-0b5c-45f8-9eae-ac2276e4970d)
+
+![image](https://github.com/user-attachments/assets/fe49ea17-2d9f-4315-bb7f-377117b179c4)
+
+2-Captura de pantalla del primer commit (10%)
+
+![image](https://github.com/user-attachments/assets/114635fd-cd6d-48b1-8fbc-063db27145dd)
+
+3-Captura de pantalla del último commit (10%)
+
+![image](https://github.com/user-attachments/assets/ca956456-e9a3-4341-93a2-2a5d19347b3c)
+
+-GITHUB:
+
+1-La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse" (10%)
+
+![image](https://github.com/user-attachments/assets/3ca77468-85cd-4b5c-be6f-47d789325da6)
+
+2-La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency" (10%)
+
+![image](https://github.com/user-attachments/assets/26aebc54-0b61-4187-8051-f5b12f4350a0)
+
+3-Captura con la relación de las PRQs realizadas cerradas (10%)
+
+![image](https://github.com/user-attachments/assets/6f434c41-d764-489b-8e0d-3c6faf27f6ad)
+
+![image](https://github.com/user-attachments/assets/00d611b2-3016-4e7d-88d0-40babfdfbf86)
+
+
+

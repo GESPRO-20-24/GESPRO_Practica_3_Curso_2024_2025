@@ -44,7 +44,7 @@ public class BaseApp extends Application {
                 .disabled(isMock()).build())
                 .build());
     }
-
+//probando
     protected void initLogger() {
         Log.initLogger();
     }
